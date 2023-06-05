@@ -1,9 +1,9 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
+    name: "Priyanshu Pandey",
     job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    image: "https://avatars.githubusercontent.com/u/88549100?s=400&u=8d77860d146d2f20042e1b0003e71bb6d4e76dab&v=4",
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
