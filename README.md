@@ -1,4 +1,4 @@
-# testimonial-slider-react
+# Testimonial Slider React
 
 
 The Testimonial Slider project is an innovative web application that presents user testimonials and feedback in an engaging slider format, built using a combination of HTML, Tailwind CSS, and React JS. This project is designed to enhance user interaction and showcase client experiences in a modern and dynamic way.
